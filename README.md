@@ -53,33 +53,27 @@
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
-⭐️ From [AdamAlston](https://github.com/adamalston)
-
-### Hi there 👋
-
-<h2> I'm Ashif Zafar! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
+<h2> FAVOURATE SHOW <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.cdkglobal.com/us">CDK Global Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.cdkglobal.com/us">FRELANCEER LIFE LOL</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Ashif](https://img.shields.io/twitter/follow/beingAshifZafar?style=social)](https://twitter.com/beingAshifZafar)
-[![Linkedin: Ashif](https://img.shields.io/badge/-AshifZafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/AshifMohammad)
+[![Linkedin: Belmiro](https://img.shields.io/badge/-AshifZafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belmiro-adriano-18554024a/)
+[![GitHub tjsweetblack](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/tjsweetblack)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ashifZafar = {
+const belmiroAdriano = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Java, C# ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, React-Testing-library,  docker, ansible , bamboo , devOps  ],
+  code: [C, C++, HTML, CSS, JavaScript],
+  tools: [React,Node, Styled-Components, docker],
   architecture: ["microfrontend", "miroservices","event-driven", "design system pattern", "behavior-driven-development", "test-driven-development"],
   techCommunities: {
-                        coorganizer: ["corbiton","apache", "unicef"],
-                        speaker: "English/Urdu",
-                        workExperiences: [{companyName:"waltDisneyLondon", role:"programmerAnalyst"},
-                                          {companyName:"cdkGlobalInc", role:"softwareEngineer"},]
+                        speaker: "English/Portuguese",
+                        workExperiences: [{companyName:"yetubrand", role:"grafic designer"},
+                                          {companyName:"lbslanguange", role:"grafic designer"},]
 
 
                                            

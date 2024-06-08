@@ -1,12 +1,8 @@
-## Hi there 👋
+## 
 
 
 ---
-title: AshifMohammad
-date: '2020-08-22'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'AshifMohammad'
+Hi there 👋 my name is Belmiro Adriano and I CODE!!!
 ---
 
 

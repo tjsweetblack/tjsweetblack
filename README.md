@@ -13,7 +13,7 @@ categories: ["creativity", "all-profile"]
 githubUsername: 'adamalston'
 ---
 
-[![Header]([https://github.com/adamalston/adamalston/raw/master/profile.gif](https://github.com/tjsweetblack/profileincludes/gifmiro.gif))]
+[![Header]([[https://github.com/tjsweetblack/profileincludes/gifmiro.gif])
 
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 

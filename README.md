@@ -1,21 +1,4 @@
-## 
-
-
----
-Hi there 👋 my name is Belmiro Adriano and I CODE!!!
----
-
----
-title: AdamAlston
-date: 2020-29-08
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
-githubUsername: 'adamalston'
----
-
-[![Header]([[https://github.com/tjsweetblack/profileincludes/gifmiro.gif])
-
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+[![](https://i.postimg.cc/634VhWjy/gifmiro.gif)]()<!-- If you want the template for my gif, email me! -->
 
 **Languages I have used**
 

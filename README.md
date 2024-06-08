@@ -1,5 +1,5 @@
 [![](https://i.postimg.cc/634VhWjy/gifmiro.gif)]()<!-- If you want the template for my gif, email me! -->
-[![](https://i.postimg.cc/cJph2t8Q/Add-a-heading.gif)]()<!-- If you want the template for my gif, email me! -->
+
 
 **Languages I have used**
 
@@ -91,7 +91,7 @@ const ashifZafar = {
 
 ---
 
- <img src="https://user-images.githubusercontent.com/20770645/90959204-22aafa00-e4b7-11ea-94d3-0139a8b1fd97.jpg" width="230">
+ [![](https://i.postimg.cc/cJph2t8Q/Add-a-heading.gif)]()<!-- If you want the template for my gif, email me! -->
  
  ---
  ⭐️ From [@Ashif](https://github.com/Ashif)

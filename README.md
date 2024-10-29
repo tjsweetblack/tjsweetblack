@@ -34,8 +34,8 @@
 ```javascript
 const belmiroAdriano = {
   pronouns: "he" | "his",
-  code: [C, C++, HTML, CSS, JavaScript],
-  tools: [React,Node, Styled-Components, docker],
+  code: [C, C++, python],
+  tools: [Cmake, Styled-Components, docker],
   architecture: ["microfrontend", "miroservices","event-driven", "design system pattern", "behavior-driven-development", "test-driven-development"],
   techCommunities: {
                         speaker: "English/Portuguese",
